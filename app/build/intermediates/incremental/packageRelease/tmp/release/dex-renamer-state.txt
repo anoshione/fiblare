@@ -1,0 +1,4 @@
+#Fri Jul 10 01:18:36 BDT 2026
+base.0=F\:\\DEV\\player1-native\\player1-native\\app\\build\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

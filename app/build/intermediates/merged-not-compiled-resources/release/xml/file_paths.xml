@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Sharing vault files from filesDir/hidden_vault -->
+    <files-path name="internal_vault" path="hidden_vault" />
+    <!-- Sharing general files from filesDir -->
+    <files-path name="internal_files" path="." />
+    <!-- Sharing files from external storage -->
+    <external-path name="external_files" path="." />
+</paths>

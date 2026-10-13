@@ -1,0 +1,6 @@
+R_DEF: Internal format may change without notice
+local
+layout custom_player_view
+mipmap ic_launcher
+style Theme.Player1
+xml file_paths

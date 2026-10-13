@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="F:\DEV\player1-native\player1-native\app"
+    name=":app"
+    type="APP"
+    maven="Player1Native:app:unspecified"
+    agpVersion="8.11.1"
+    buildFolder="build"
+    bootClassPath="C:\Users\5h10\AppData\Local\Android\sdk\platforms\android-36\android.jar;C:\Users\5h10\AppData\Local\Android\sdk\build-tools\35.0.0\core-lambda-stubs.jar"
+    javaSourceLevel="17"
+    compileTarget="android-36">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.player1.app-debug-74:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.player1.app-main-76:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.player1.app-debug-74:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.player1.app-main-76:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.player1.app-debug-74:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.player1.app-main-76:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.player1.app-debug-74:/xml_file_paths.xml.flat",
+        "source": "com.player1.app-main-76:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.player1.app-debug-74:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.player1.app-main-76:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.player1.app-debug-74:/layout_custom_player_view.xml.flat",
+        "source": "com.player1.app-main-76:/layout/custom_player_view.xml"
+    },
+    {
+        "merged": "com.player1.app-debug-74:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.player1.app-main-76:/mipmap-xxhdpi/ic_launcher.png"
+    }
+]
